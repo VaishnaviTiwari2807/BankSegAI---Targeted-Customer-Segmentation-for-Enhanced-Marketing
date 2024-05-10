@@ -8,7 +8,7 @@ This repository contains the code and methodology for a customer segmentation an
 - **Customer Data Analysis:** Exploration and preprocessing of customer financial data including balance, purchases, and cash advances.
 - **Data Preprocessing**: Cleansing and normalization of customer transactional data.
 - **Visualization:** Graphical representation of data distributions and clustering results to provide intuitive insights into customer groups.
-- **Visualization:** Graphical representation of data distributions and clustering results to provide intuitive insights into customer groups.
+- **Segmentation Modeling:** Application of K-means clustering to segment customers into distinct groups based on behavioral and financial characteristics.
 - **Dimensionality Reduction**: Implementation of Autoencoders to reduce feature dimensions while capturing essential information.
 
 ## Technologies Used

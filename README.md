@@ -1,7 +1,13 @@
-# CustomerInsightsSegmentation
+# BankSegAI - Targeted Customer Segmentation for Enhanced Marketing
 
-## Project Overview
-This repository contains the code and methodology for a customer segmentation analysis for  bank. The project uses Autoencoders and clustering techniques to segment bank customers based on their transactional behaviors and financial profiles. The segmentation results are utilized to design targeted marketing campaigns, aiming to enhance customer engagement and optimize resource allocation.
+## Introduction
+Marketing is crucial for the growth and sustainability of any business. Effective marketing strategies help build the company's brand, engage customers, grow revenue, and increase sales. One of the key challenges for marketers is to know their customers and identify their needs. By understanding the customer, marketers can launch targeted marketing campaigns tailored to specific needs.
+
+## Problem Statement
+The marketing team at a bank  wants to launch a targeted ad marketing campaign. To achieve this, they need to divide their customers into at least three distinctive groups. The bank has extensive data on their customers' transactional behaviors and financial profiles over the past six months. This data provides an excellent opportunity to apply data science techniques for market segmentation.
+
+## Objective
+To segment the bank's customers using Autoencoders and clustering techniques, based on their transactional behaviors and financial profiles. The segmentation results will be utilized to design targeted marketing campaigns, aiming to enhance customer engagement and optimize resource allocation.
 
 ## Key Features
 - **Segmentation Modeling:** Application of K-means clustering to segment customers into distinct groups based on behavioral and financial characteristics.

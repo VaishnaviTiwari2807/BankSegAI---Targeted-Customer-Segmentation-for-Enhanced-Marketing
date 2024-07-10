@@ -1,4 +1,4 @@
-# BankSegAI - Targeted Customer Segmentation for Enhanced Marketing
+# Customer Segmentation for Enhanced Marketing
 
 ## Introduction
 Marketing is crucial for the growth and sustainability of any business. Effective marketing strategies help build the company's brand, engage customers, grow revenue, and increase sales. One of the key challenges for marketers is to know their customers and identify their needs. By understanding the customer, marketers can launch targeted marketing campaigns tailored to specific needs.
